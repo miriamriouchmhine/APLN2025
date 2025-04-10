@@ -1,0 +1,64 @@
+ Informe comparativo de becas educativas entre los años 2021-2026 (Becas 1 a 5)
+
+Comparativa de cuantías fijas e iniciales por año:
+| Año | Cuantía Fija Renta | Cuantía Fija Residencia |
+| --- | :---: | :---: |
+| 2021-2022 (Beca 1)   | $1700.0    | $1600.0     |
+| 2022-2023 (Beca 2)   | $1700.0    | $1600.0     |
+| 2023-2024 (Beca 3)   | $1700.0    | $2500.0     |
+| 2024-2025 (Beca 4)   | $1700.0    | $2500.0     |
+| 2025-2026 (Beca 5)   | $1700.0    | $2700.0     |
+
+Comparativa de cuantías fijas e iniciales por año:
+| Año | Cuantía Fija Renta | Cuantía Fija Residencia |
+| --- | :---: | :---: |
+| 2021-2022 (Beca 1)   | $300.0    | $350.0     |
+| 2022-2023 (Beca 2)   | $300.0    | $350.0     |
+| 2023-2024 (Beca 3)   | $300.0    | $350.0     |
+| 2024-2025 (Beca 4)   | $300.0    | $350.0     |
+| 2025-2026 (Beca 5)   | $300.0    | $350.0     |
+
+Comparativa de cuantías variables por año:
+| Año | Cuantía Variable Mínima |
+| --- | :---: |
+| 2021-2022 (Beca 1)   | $60.0    |
+| 2022-2023 (Beca 2)   | $60.0    |
+| 2023-2024 (Beca 3)   | $60.0    |
+| 2024-2025 (Beca 4)   | $60.0    |
+| 2025-2026 (Beca 5)   | $60.0    |
+
+Comparativa de componentes académicos por año:
+| Año | Matriculación Mínima Créditos | Nota Mínima Acceso Puntos | Excelencia Académica Detallada |
+| --- | :---: | :---: | :---:  |
+| 2021-2022 (Beca 1)   | Sin datos específicos    | Nota mínima acceso a todos los cursos: 5,00 puntos     | Excelencia académica no detallada en el documento.
+| 2022-2023 (Beca 2)   | Sin datos específicos    | Nota mínima acceso a todos los cursos: 5,00 puntos     | Excelencia académica no detallada en el documento.
+| 2023-2024 (Beca 3)   | Sin datos específicos    | Nota mínima acceso a todos los cursos: 5,00 puntos     | Excelencia académica no detallada en el documento.
+| 2024-2025 (Beca 4)   | Sin datos específicos    | Nota mínima acceso a todos los cursos: 5,00 puntos     | Excelencia académica no detallada en el documento.
+| 2025-2026 (Beca 5)   | Sin datos específicos    | Nota mínima acceso a todos los cursos: 5,00 puntos     | Excelencia académica no detallada en el documento.
+
+Comparativa de requisitos y restricciones por año:
+| Año | Requisito Matrícula Mínima Créditos | No Repetir Curso Total o Parcialmente | Nota Mínima Acceso Puntos | Excelencia Académica Detallada |
+| --- | :---: | :---:  | :---:  | :---:   |
+| 2021-2022 (Beca 1)   | Sin datos específicos    | No repetir curso total o parcialmente     | Nota mínima acceso a todos los cursos: 5,00 puntos     | Excelencia académica no detallada en el documento.
+| 2022-2023 (Beca 2)   | Sin datos específicos    | No repetir curso total o parcialmente     | Nota mínima acceso a todos los cursos: 5,00 puntos     | Excelencia académica no detallada en el documento.
+| 2023-2024 (Beca 3)   | Sin datos específicos    | No repetir curso total o parcialmente     | Nota mínima acceso a todos los cursos: 5,00 puntos     | Excelencia académica no detallada en el documento.
+| 2024-2025 (Beca 4)   | Sin datos específicos    | No repetir curso total o parcialmente     | Nota mínima acceso a todos los cursos: 5,00 puntos     | Excelencia académica no detallada en el documento.
+| 2025-2026 (Beca 5)   | Sin datos específicos    | No repetir curso total o parcialmente     | Nota mínima acceso a todos los cursos: 5,00 puntos     | Excelencia académica no detallada en el documento.
+
+Comparativa de ensenanzas por año:
+| Año | Ensenanzas Detalladas | Ejemplo de Ramas y Menciones No Incluidas |
+| --- | :---:  | :---:   |
+| 2021-2022 (Beca 1)   | Sin datos específicos    | Ensenanzas artísticas superiores, estudios religiosos superiores no incluidas.
+| 2022-2023 (Beca 2)   | Sin datos específicos    | Ensenanzas artísticas superiores, estudios religiosos superiores no incluidas.
+| 2023-2024 (Beca 3)   | Sin datos específicos    | Ensenanzas artísticas superiores, estudios religiosos superiores no incluidas.
+| 2024-2025 (Beca 4)   | Sin datos específicos    | Ensenanzas artísticas superiores, estudios religiosos superiores no incluidas.
+| 2025-2026 (Beca 5)   | Sin datos específicos    | Ensenanzas artísticas superiores, estudios religiosos superiores no incluidas.
+
+Comparativa de ensenanzas por año:
+| Año | Ejemplo de Ramas y Menciones No Incluidas | Excelencia Académica Detallada |
+| --- | :---:  | :---:   |
+| 2021-2022 (Beca 1)   | Ensenanzas artísticas superiores, estudios religiosos superiores no incluidas.     | Excelencia académica no detallada en el documento.
+| 2022-2023 (Beca 2)   | Ensenanzas artísticas superiores, estudios religiosos superiores no incluidas.     | Excelencia académica no detallada en el documento.
+| 2023-2024 (Beca 3)   | Ensenanzas artísticas superiores, estudios religiosos superiores no incluidas.     | Excelencia académica no detallada en el documento.
+| 2024-2025 (Beca 4)   | Ensenanzas artísticas superiores, estudios religiosos superiores no incluidas.     | Excelencia académica no detallada en el documento.
+| 2025-2026 (Beca 5)   | Ensenanzas artísticas superiores, estudios religiosos superiores no incluidas.     | Excelencia académica no detallada en el documento.

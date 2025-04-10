@@ -1,0 +1,19 @@
+Informe comparativo de las becas educativas:
+
+1. Tendencias temporales:
+   - La cuantía fija para la residencia ha experimentado un incremento progresivo entre los años considerados (2023-24, 2024-25 y 2025-26). En el primer año, es de 2500€; en el segundo, asciende a 2700€; y para el tercero se estima en 3100€.
+   - La cuantía fija para la renta ha permanecido constante en todos los años (1700€).
+
+2. Estructura de ayudas:
+   - Todos los años presentan una estructura similar, con dos componentes fijos (renta y residencia) y un componente variable relacionado con la excelencia académica.
+   - La beca básica es constante en todos los años (300€), tanto para el componente de renta como para el de ciclos formativos.
+
+3. Datos destacados:
+   - En cuanto a la cuantía fija para la residencia, se observa un incremento constante desde 2500€ en 2023-24 hasta los 3100€ estimados para 2025-26.
+   - La beca básica mantiene una cuantía fija de 300€, independientemente del año y su destino (renta o residencia).
+
+4. Excelencia académica:
+   - Los rangos de notas y sus correspondientes recompensas son idénticos en todos los años, con cuatro tramos definidos por intervalos de 0,5 puntos (8.0-8.49, 8.5-8.99, 9.0-9.49 y 10).
+   - La recompensa variable asociada a la excelencia académica es constante en todos los años: 50€ para el primer tramo, 75€ para el segundo, 100€ para el tercero y 125€ para el cuarto.
+
+En resumen, las principales diferencias entre los años considerados se centran en la evolución de la cuantía fija asignada a la residencia, que experimenta un incremento progresivo, mientras que otros componentes (fijos y variables) permanecen estables. La estructura general de las ayudas sigue siendo similar en todos los años, con dos componentes fijos y uno variable relacionado con la excelencia académica.

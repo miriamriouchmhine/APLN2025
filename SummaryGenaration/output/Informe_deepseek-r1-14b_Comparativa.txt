@@ -1,0 +1,31 @@
+### Informe Comparativo de Becas Educativas (2021-2026)
+
+#### 1. Tendencias Temporales: Cambios en Cuantías entre Años
+- **Beca por Renta**: Mantuvo un monto constante de 1700€ hasta el año 2025-2026, donde no se menciona un cambio.
+- **Beca por Residencia**: Fue de 2700€ a partir del año 2025-2026, aumentando desde los anteriores años que tenían valores inferiores o no especificados.
+- **Beca Básica**: Se mantuvo en 300€ para la mayoría de las categorías, excepto para ciclos formativos de grado básico, que fue de 350€.
+
+#### 2. Estructura de Ayudas: Desglose de Componentes
+| Año Académico | Cuantía Fija Renta (€) | Cuantía Fija Residencia (€) | Beca Básica (€) |
+|---------------|------------------------|-------------------------------|------------------|
+| 2021-2022     | 1700                   | No especificado                | 300              |
+| 2022-2023     | 1700                   | No especificado                | 350 (específica)|
+| 2023-2024     | 1700                   | No especificado                | 350              |
+| 2024-2025     | 1700                   | No especificado                | 350              |
+| 2025-2026     | 1700                   | 2700                          | 350 (específica)|
+
+#### 3. Datos Destacados: Máximos, Mínimos y Peculiaridades
+- **Máximo Monto por Residencia**: Aumentó a 2700€ en el año 2025-2026.
+- **Beca Básica para Ciclos Formativos de Grado Básico**: Fue consistente en 350€ desde 2021 hasta 2024, excepto un aumento inicial.
+- **Requisitos Especiales**: Introducción del requisito de matriculación mínima de 60 créditos en el año 2025-2026.
+
+#### 4. Excelencia Académica
+| Rango de Nota | Monto Adicional (€) |
+|----------------|----------------------|
+| 8.0 - 8.49     | 50                   |
+| 8.5 - 8.99     | 75                   |
+| 9.0 - 9.49     | 100                  |
+| >=9.5          | 125                  |
+
+### Conclusión
+Los montos de las becas han experimentado cambios significativos, especialmente en la cuantía por residencia y en los requisitos adicionales introducidos recientemente. La estructura general se mantiene similar con pequeños ajustes en algunos componentes.

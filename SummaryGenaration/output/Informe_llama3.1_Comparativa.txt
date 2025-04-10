@@ -1,0 +1,36 @@
+**Informe sobre becas educativas**
+
+En este informe se analiza y compara los datos de becas educativas para diferentes años. Se resaltan las diferencias entre ellos en cuanto a cuantías, estructura de ayudas, datos destacados y excelencia académica.
+
+**Tendencias temporales: Cambios en cuantías entre años**
+
+* La cuantía fija aumenta ligeramente desde el año 2023 (Beca 1) hasta el año 2025 (Beca 4), con un aumento del 6,7% en promedio.
+* Sin embargo, la cuantía variable disminuye en el año 2025 (Beca 5) respecto al año anterior (Beca 4).
+* La cuantía fija para estudiantes de residencia aumenta significativamente desde el año 2023 (Beca 1) hasta el año 2025 (Beca 4), con un aumento del 23,1% en promedio.
+
+**Estructura de ayudas: Desglose de componentes**
+
+* Todas las becas tienen una cuantía fija y variable.
+* La proporción entre la cuantía fija y la cuantía variable varía ligeramente entre los años. En el año 2023 (Beca 1), la cuantía fija representa un 60% de la ayuda total, mientras que en el año 2025 (Beca 4) representa un 55%.
+
+**Datos destacados: Máximos, mínimos y peculiaridades**
+
+* El máximo de cuantías se alcanza en el año 2025 (Beca 4), con una cuantía fija de €1.700 y una cuantía variable de €270.
+* El mínimo de cuantías se alcanza en el año 2023 (Beca 1), con una cuantía fija de €1.500 y una cuantía variable de €60.
+
+**Excelencia académica: Rango de notas y recompensas**
+
+| Año | Nota mínima | Nota máxima | Recompensa |
+| --- | --- | --- | --- |
+| 2023 (Beca 1) | 5,00 puntos | - | €50 por nota entre 8,0-9,4 |
+| 2024 (Beca 2) | 5,00 puntos | - | €75 por nota entre 8,0-9,4 |
+| 2025 (Beca 3) | 5,00 puntos | - | €100 por nota entre 8,0-9,4 |
+| 2026 (Beca 4) | 5,00 puntos | - | €125 por nota entre 8,0-10,0 |
+
+**Comparación de becas**
+
+* La Beca 1 del año 2023 tiene una cuantía fija más baja que la Beca 2 del año 2024.
+* La Beca 3 del año 2025 tiene un rango de notas más amplio y recompensas más altas que las becas anteriores.
+* La Beca 4 del año 2026 tiene una cuantía fija similar a la Beca 2 del año 2024, pero con un rango de notas más amplio y recompensas más altas.
+
+En resumen, se observan cambios en las cuantías entre los años, así como diferencias en la estructura de ayudas y excelencia académica. Es importante destacar que cada beca tiene sus propias características y requisitos para ser elegible.

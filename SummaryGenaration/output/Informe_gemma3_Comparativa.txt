@@ -1,0 +1,50 @@
+## Informe Comparativo de Becas Educativas (2025-2026)
+
+Este informe analiza y compara los datos de las becas educativas ofrecidas para los años académicos 2025-2026, 2024-2025, 2023-2024 y 2022-2023, destacando las diferencias entre ellos.
+
+**1. Tendencias Temporales y Cambios en Cuantías:**
+
+* **2025-2026:** La cuantía fija de renta es la más alta (2700€) y la fija de residencia la más alta (2700€). La cuantía variable mínima es de 60€.
+* **2024-2025:** La cuantía fija de renta es de 2700€ y la fija de residencia es de 2500€. La cuantía variable mínima es de 60€.
+* **2023-2024:** La cuantía fija de renta es de 2500€ y la fija de residencia es de 2300€. La cuantía variable mínima es de 60€.
+* **2022-2023:** La cuantía fija de renta es de 2300€ y la fija de residencia es de 2200€. La cuantía variable mínima es de 60€.
+
+Se observa una tendencia general a un aumento de la cuantía fija de renta y residencia a lo largo de los años, aunque el incremento no es lineal.
+
+**2. Estructura de Ayudas:**
+
+La estructura de ayudas se mantiene similar a lo largo de los años, con componentes fijos (renta y residencia) y una cuantía variable mínima.  La cuantía variable se establece en 60€ en todos los años.
+
+**3. Datos Destacados:**
+
+| Año          | Cuantía Fija de Renta | Cuantía Fija de Residencia | Cuantía Variable Mínima |
+|--------------|-----------------------|---------------------------|-------------------------|
+| 2025-2026    | 2700€                 | 2700€                     | 60€                     |
+| 2024-2025    | 2700€                 | 2500€                     | 60€                     |
+| 2023-2024    | 2500€                 | 2300€                     | 60€                     |
+| 2022-2023    | 2300€                 | 2200€                     | 60€                     |
+
+**4. Excelencia Académica: Rango de Notas y Recompensas (Desglose por Año):**
+
+| Año          | Notas para Cuantía Máxima | Rango de Notas para Cuantía Máxima |
+|--------------|---------------------------|------------------------------------|
+| 2025-2026    | 10.0                      | 9.5 - 10.0                         |
+| 2024-2025    | 10.0                      | 9.5 - 10.0                         |
+| 2023-2024    | 10.0                      | 9.5 - 10.0                         |
+| 2022-2023    | 10.0                      | 9.5 - 10.0                         |
+
+**Matriculación Mínima:**
+
+* **2025-2026:** 60 créditos
+* **2024-2025:** No especificada
+* **2023-2024:** No especificada
+* **2022-2023:** No especificada
+
+**Conclusiones Generales:**
+
+* La cuantía de las ayudas fijas de renta y residencia ha aumentado de 2200€ a 2700€ a lo largo de los años, indicando una posible evolución en la política de apoyo a la educación.
+* La estructura de ayudas se mantiene constante, con un componente fijo y una cuantía variable mínima.
+* El rango de notas para acceder a la cuantía máxima se mantiene en un 9.5 - 10.0, lo que implica un alto nivel académico exigido.
+* La información sobre la matriculación mínima no está disponible para todos los años.
+
+Este informe proporciona una visión general de las diferencias entre las becas educativas ofrecidas en los años académicos 2022-2023, 2023-2024, 2024-2025 y 2025-2026.

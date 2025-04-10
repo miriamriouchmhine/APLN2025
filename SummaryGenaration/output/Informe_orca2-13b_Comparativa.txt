@@ -1,0 +1,49 @@
+Informe sobre becas educativas (2021-2026)
+
+Los datos de las becas educativas para el período 2021-2026 se presentan a continuación, con un enfoque en los cambios y diferencias entre los años. Se analizaron y compararon los siguientes aspectos: cuantías fijas e variables, excelencia académica y recompensas, y estructura de las ayudas.
+
+Tendencias temporales
+-------------------------
+
+Las becas educativas se han incrementado progresivamente en el período 2021-2026, con una mayor cantidad de ayuda disponible para los estudiantes del último año (Beca 5). La siguiente tabla muestra la evolución de las cuantías fijas y variables por curso:
+
+| Curso | Cuantía fija | Cuantía variable mínima | Total |
+| ----- | -------------- | ------------------------ | ----- |
+| 2021-2022 | 1700,00 €    | 60,00 €                   | 1760,00 €          |
+| 2022-2023 | 1700,00 €    | 65,04 € (+9,89 %)         | 1765,04 €          |
+| 2023-2024 | 1700,00 €    | 70,08 € (+13,35 %)        | 1770,12 €          |
+| 2024-2025 | 1700,00 €    | 75,12 € (+16,96 %)        | 1775,12 €          |
+| 2025-2026 | 1700,00 €    | 80,16 € (+23,43 %)        | 1785,16 €          |
+
+Estructura de ayudas
+-----------------------
+
+Las becas educativas se componen de dos partes: la cuantía fija y la cuantía variable. La cuantía fija es igual para todos los cursos y las ramas académicas, mientras que la cuantía variable depende de la nota obtenida en el examen de selección. Las siguientes tablas muestran cómo se distribuyen las becas según cada curso y rama:
+
+| Curso | Rama | Cuantía fija | Cuantía variable mínima | Total |
+| ----- | ---- | -------------- | ------------------------ | ----- |
+| 2021-2022 | A, B, C, D, E, F    | 1700,00 €          | 60,00 €                   | 1760,00 €          |
+| 2022-2023 | A, B, C, D, E, F    | 1700,00 €          | 65,04 € (+9,89 %)         | 1765,04 €          |
+| 2023-2024 | A, B, C, D, E, F    | 1700,00 €          | 70,08 € (+13,35 %)        | 1770,12 €          |
+| 2024-2025 | A, B, C, D, E, F    | 1700,00 €          | 75,12 € (+16,96 %)        | 1775,12 €          |
+| 2025-2026 | A, B, C, D, E, F    | 1700,00 €          | 80,16 € (+23,43 %)        | 1785,16 €          |
+
+Excelencia académica y recompensas
+----------------------------------
+
+La excelencia académica se premia con becas de estudio superiores para los estudiantes que obtienen notas muy altas en el examen de selección. Los tramos y cantidades de estas becas son los siguientes:
+
+| Nota | Rango | Beca de estudio superior (cuantía fija + variable) |
+| ---- | ----- | ------------------------------------------------ |
+| 9,50   | A      | 125,04 € (+37,88 %)                           |
+| 10,00  | B      | 135,16 € (+49,62 %)                           |
+| 10,50  | C      | 145,28 € (+62,37 %)                           |
+| 11,00  | D      | 155,40 € (+75,12 %)                           |
+| 12,00  | E      | ------------------------------------------------ |
+
+Las becas de estudio superiores se suman a la cantidad total de la beca educativa correspondiente al curso y rama. Por ejemplo, un estudiante que obtuviera una nota de 9,50 en el examen de selección del primer año de Bachillerato con rama A recibiría 125,04 € + 80,16 € = 205,20 € en total.
+
+Conclusión
+-------------
+
+Los datos de las becas educativas para el período 2021-2026 muestran un aumento progresivo en la cantidad de ayuda disponible para los estudiantes, especialmente en el último año (Beca 5). La excelencia académica se recompensa con becas de estudio superiores para los estudiantes que obtienen notas muy altas. Las becas se componen de una cuantía fija y variable, la cual depende de la nota obtenida en el examen de selección y del curso y rama elegidos.

@@ -1,0 +1,54 @@
+### Informe Comparativo sobre Becas Educativas (2022-2026)
+
+#### 1. Tendencias Temporales en Cuantías
+
+A lo largo de los años considerados, se observan cambios significativos en las cuantías fijas y variables asociadas a las becas:
+
+- **Cuantía Fija por Renta**: Se mantiene constante en €1700 desde 2022 hasta 2025. En el año 2026, esta cantidad no varía respecto al periodo anterior.
+  
+- **Cuantía Fija por Residencia**:
+  - Aumenta de €2500 (2022) a €2700 (2026), mostrando un incremento progresivo cada dos años: 
+    - 2023 y 2024 mantienen la cuantía en €2600.
+  
+- **Beca Básica**: Permanece invariable en €300 desde el inicio hasta el final del periodo analizado.
+
+- **Beca para Ciclos Formativos de Grado Medio/Grado Superior**: Se mantiene constante en €350 durante todos los años.
+
+#### 2. Estructura de Ayudas
+
+Las becas se componen tanto de componentes fijos como variables:
+
+- **Componentes Fijas**:
+  - Cuantía por renta y residencia.
+  - Beca básica y para ciclos formativos.
+
+- **Cuantías Variables**: 
+  - Las cuantías variables relacionadas con la excelencia académica se mantienen constantes en €60 desde el inicio hasta el final del periodo, sin cambios anuales.
+
+#### 3. Datos Destacados
+
+- **Máximos y Mínimos**:
+  - La máxima cuantía fija por residencia es de €2700 (2026).
+  - El mínimo para la misma categoría se registra en €2500 (2022).
+
+- **Peculiaridades**: 
+  - En el año 2025, se introduce un nuevo requisito: "Matriculación mínima: 60 créditos", que no aparece en los años anteriores.
+
+#### 4. Excelencia Académica
+
+La estructura de recompensas por excelencia académica es constante a lo largo del periodo:
+
+- **Rango de Notas y Recompensas**:
+  - Desde el año 2022 hasta el 2026, las cuantías variables se desglosan en los siguientes tramos:
+    - De 8.0 a 8.49: €50
+    - De 8.5 a 8.99: €75
+    - De 9.0 a 9.49: €100
+    - De 9.5 a 10.0: €125
+
+- **Requisitos Académicos**:
+  - Hasta el año 2024, los requisitos incluyen "No repetir curso total o parcialmente" y una "Nota mínima de acceso: 5,00 puntos".
+  - En 2025 se añade la condición de matriculación mínima.
+
+#### Conclusión
+
+A lo largo del periodo analizado (2022-2026), las becas mantienen una estructura estable en términos de cuantías fijas y variables, con incrementos graduales en algunas categorías. La introducción de nuevos requisitos académicos en 2025 marca un cambio notable respecto a años anteriores.
