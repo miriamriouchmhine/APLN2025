@@ -31,7 +31,16 @@ for pdf_file in PDFS_A_PROCESAR:
 
     # Guardar texto limpio en un archivo
     output_file = os.path.join(PDF_FOLDER, pdf_file.replace('.pdf', '_docling.txt'))
+    # with open(output_file, "w", encoding="utf-8") as f:
+    #     f.write(result.document.export_to_markdown())
+    # Exportar a markdown y eliminar líneas que contengan '<!-- image -->'
+    markdown_text = result.document.export_to_markdown()
+    clean_text = "\n".join(
+        line for line in markdown_text.splitlines() if "<!-- image -->" not in line
+    )
+
+    # Guardar texto limpio en un archivo
     with open(output_file, "w", encoding="utf-8") as f:
-        f.write(result.document.export_to_markdown())
+        f.write(clean_text)
 
     print(f"[EXITO] Texto limpio guardado en '{output_file}'")

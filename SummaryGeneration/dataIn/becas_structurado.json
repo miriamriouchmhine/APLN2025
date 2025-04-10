@@ -1,0 +1,304 @@
+[
+  {
+    "curso": "2020-2021",
+    "cuantia_fija_renta": 1700.0,
+    "cuantia_fija_residencia": 1600.0,
+    "beca_basica": 300.0,
+    "beca_basica_ciclo_formativo": null,
+    "cuantia_variable_min": 60.0,
+    "ensenanzas": [
+      "Primer y segundo cursos de bachillerato",
+      "Formación Prolesional de grado medio y de grado superior",
+      "Ensefanzas artisticas prolesionales",
+      "Enseñanzas deportivas",
+      "Enseñanzas artísticas superiores",
+      "Estudios de idiomnas realizados en escuelas oficiales de titularidad de las administraciones educativas",
+      "Cursos de acceso y cursos de preparación para las pruebas de acceso a la formación profesional y cursos de formación específicos para el acceso a los ciclos formativos de grado medio y de grado superior impartidos en centros públicos y en centros privados concertados que tengan autorizadas enseñanzas de formación profesional",
+      "Enseñanzas universitarias conducentes a titulos oficiales de grado y de máster",
+      "Curso de preparación para acceso a la universidad de mayores de 25 años impartido por universidades públicas",
+      "Beca de matricula",
+      "Cuantía fija ligada a la renta del estudiante - c) Cuantía fija ligada a la residencia del estudiante durante el curso escolar",
+      "Cuantía fija ligada a la excelencia en el rendimiento académico - 2) La beca podrá incluir",
+      "a f) del artículo 3",
+      "del artículo 3",
+      "a f) del artículo 3",
+      "del artículo 3",
+      "Enseñanzas de grado superior de formación profesional; de arles plásticas y diseño y de enseñanzas deportivas - Estudiantes de primer curso: nota media obtenida en segundo curso de bachilleralo; prueba 0 curso de acceso respectivamente 0 en la calilicación final del ciclo formativo de grado medio que dé acceso al ciclo formativo de grado superior",
+      "Enseñanzas de bachillerato; enseñanzas profesionales de música y danza y grado medio de formación profesional",
+      "Enseñanzas artísticas superiores y estudios religiosas superiores organizados por créditos",
+      "Enseñanzas universitarias conducentes al título de grado - Estudiantes de primer curso: la nota de acceso a la Universidad con exclusión de la calificación obtenida en las pruebas de las materias de opción del bloque de las asignaturas troncales es decir",
+      "Enseñanzas universitarias conducentes al título de máster - Estudiantes de primer curso; nota media obtenida en los estudios previos que les dan acceso al máster",
+      "Ri = Renta per cápita de cada uno de los becarios a que se refiere 5 Rmax = Renta per cápita máxima para ser beneficiario de la cuantía variable N se aplicarán las siguientes reglas: A las calificaciones de los becarios de primer curso de procedentes de la Evaluación de Bachillerato para el Acceso a la Universidad se les aplicará un coeficiente corrector igual al cociente entre la caliticación media obtenida en los estudios universitarios por los becarios del área de conocimiento que corresponda y la calificación media obtenida en Evaluación de Bachillerato para el Acceso a la Universidad",
+      "yc) del articulo 3",
+      "Acreditar que en el curso 2019-2020 se ha producido un menor rendimiento académico con causa directa en la condición de víctima de violencia de género; declarada conforme se señala en el apartado anterior",
+      "Matricularse en el curso 2020-2021 del siguiente número de créditos"
+    ],
+    "requisitos": [
+      "No repetir curso total o parcialmente",
+      "Nota mínima de acceso: 5,00 puntos"
+    ],
+    "archivo": "ayudas_20-21_docling.txt"
+  },
+  {
+    "curso": "2021-2022",
+    "cuantia_fija_renta": 1700.0,
+    "cuantia_fija_residencia": 1600.0,
+    "beca_basica": 300.0,
+    "beca_basica_ciclo_formativo": 350.0,
+    "cuantia_variable_min": 60.0,
+    "excelencia_tramos": [
+      {
+        "nota_min": 8.0,
+        "nota_max": 8.49,
+        "cuantia": 50
+      },
+      {
+        "nota_min": 8.5,
+        "nota_max": 8.99,
+        "cuantia": 75
+      },
+      {
+        "nota_min": 9.0,
+        "nota_max": 9.49,
+        "cuantia": 100
+      },
+      {
+        "nota_min": 9.5,
+        "nota_max": 10.0,
+        "cuantia": 125
+      }
+    ],
+    "ensenanzas": [
+      "Primer y segundo cursos de bachillerato",
+      "Formación Profesional de grado medio y de grado superior",
+      "Enseñanzas artísticas profesionales",
+      "Enseñanzas deportivas",
+      "Enseñanzas artísticas superiores",
+      "Estudios religiosos superiores",
+      "Estudios de idiomas realizados en escuelas oficiales de titularidad de las administraciones educativas",
+      "Cursos de acceso y cursos de preparación para las pruebas de acceso a la formación profesional y cursos de formación específicos para el acceso a los ciclos formativos de grado medio y de grado superior impartidos en centros públicos y en centros privados concertados que tengan autorizadas enseñanzas de formación profesional",
+      "Ciclos Formativos de Grado Básico - 2",
+      "Enseñanzas universitarias conducentes a títulos oficiales de grado y de máster",
+      "Curso de preparación para acceso a la universidad de mayores de 25 años impartido por universidades públicas",
+      "Complementos de formación para acceso u obtención del título de máster y créditos complementarios para la obtención del título de grado"
+    ],
+    "requisitos": [
+      "No repetir curso total o parcialmente",
+      "Nota mínima de acceso: 5,00 puntos"
+    ],
+    "archivo": "ayudas_21-22_docling.txt"
+  },
+  {
+    "curso": "2022-2023",
+    "cuantia_fija_renta": 1700.0,
+    "cuantia_fija_residencia": 1600.0,
+    "beca_basica": 300.0,
+    "beca_basica_ciclo_formativo": 350.0,
+    "cuantia_variable_min": 60.0,
+    "excelencia_tramos": [
+      {
+        "nota_min": 8.0,
+        "nota_max": 8.49,
+        "cuantia": 50
+      },
+      {
+        "nota_min": 8.5,
+        "nota_max": 8.99,
+        "cuantia": 75
+      },
+      {
+        "nota_min": 9.0,
+        "nota_max": 9.49,
+        "cuantia": 100
+      },
+      {
+        "nota_min": 9.5,
+        "nota_max": 10.0,
+        "cuantia": 125
+      }
+    ],
+    "ensenanzas": [
+      "Primer y segundo cursos de bachillerato",
+      "Formación Profesional de grado medio y de grado superior",
+      "Enseñanzas artísticas profesionales",
+      "Enseñanzas deportivas",
+      "Enseñanzas artísticas superiores",
+      "Estudios religiosos superiores",
+      "Estudios de idiomas realizados en escuelas oficiales de titularidad de las administraciones educativas",
+      "Cursos de acceso y cursos de preparación para las pruebas de acceso a la formación profesional y cursos de formación específicos para el acceso a los ciclos formativos de grado medio y de grado superior impartidos en centros públicos y en centros privados concertados que tengan autorizadas enseñanzas de formación profesional",
+      "Ciclos Formativos de Grado Básico - 2",
+      "Enseñanzas universitarias conducentes a títulos oficiales de grado y de máster",
+      "Curso de preparación para acceso a la universidad de mayores de 25 años impartido por universidades públicas",
+      "Complementos de formación para acceso u obtención del título de máster y créditos complementarios para la obtención del título de grado"
+    ],
+    "requisitos": [
+      "No repetir curso total o parcialmente",
+      "Nota mínima de acceso: 5,00 puntos"
+    ],
+    "plazo_presentacion": {
+      "inicio": "30 de marzo de 2022",
+      "fin": "12 de mayo de 2022"
+    },
+    "archivo": "ayudas_22-23_docling.txt"
+  },
+  {
+    "curso": "2023-2024",
+    "cuantia_fija_renta": 1700.0,
+    "cuantia_fija_residencia": 2500.0,
+    "beca_basica": 300.0,
+    "beca_basica_ciclo_formativo": 350.0,
+    "cuantia_variable_min": 60.0,
+    "excelencia_tramos": [
+      {
+        "nota_min": 8.0,
+        "nota_max": 8.49,
+        "cuantia": 50
+      },
+      {
+        "nota_min": 8.5,
+        "nota_max": 8.99,
+        "cuantia": 75
+      },
+      {
+        "nota_min": 9.0,
+        "nota_max": 9.49,
+        "cuantia": 100
+      },
+      {
+        "nota_min": 9.5,
+        "nota_max": 10.0,
+        "cuantia": 125
+      }
+    ],
+    "ensenanzas": [
+      "Primer y segundo cursos de bachillerato",
+      "Formación Profesional de grado medio y de grado superior",
+      "Enseñanzas artísticas profesionales",
+      "Enseñanzas deportivas",
+      "Enseñanzas artísticas superiores",
+      "Estudios religiosos superiores",
+      "Estudios de idiomas realizados en escuelas oficiales de titularidad de las administraciones educativas",
+      "Cursos de acceso y cursos de preparación para las pruebas de acceso a la formación profesional y cursos de formación específicos para el acceso a los ciclos formativos de grado medio y de grado superior impartidos en centros públicos y en centros privados concertados que tengan autorizadas enseñanzas de formación profesional",
+      "Ciclos Formativos de Grado Básico",
+      "Enseñanzas universitarias conducentes a títulos oficiales de grado y de máster",
+      "Curso de preparación para acceso a la universidad de mayores de 25 años impartido por universidades públicas",
+      "Complementos de formación para acceso u obtención del título de máster y créditos complementarios para la obtención del título de grado"
+    ],
+    "requisitos": [
+      "No repetir curso total o parcialmente",
+      "Nota mínima de acceso: 5,00 puntos"
+    ],
+    "plazo_presentacion": {
+      "inicio": "27 de marzo de 2023",
+      "fin": "17 de mayo de 2023"
+    },
+    "archivo": "ayudas_23-24_docling.txt"
+  },
+  {
+    "curso": "2024-2025",
+    "cuantia_fija_renta": 1700.0,
+    "cuantia_fija_residencia": 2500.0,
+    "beca_basica": 300.0,
+    "beca_basica_ciclo_formativo": 350.0,
+    "cuantia_variable_min": 60.0,
+    "excelencia_tramos": [
+      {
+        "nota_min": 8.0,
+        "nota_max": 8.49,
+        "cuantia": 50
+      },
+      {
+        "nota_min": 8.5,
+        "nota_max": 8.99,
+        "cuantia": 75
+      },
+      {
+        "nota_min": 9.0,
+        "nota_max": 9.49,
+        "cuantia": 100
+      },
+      {
+        "nota_min": 9.5,
+        "nota_max": 10.0,
+        "cuantia": 125
+      }
+    ],
+    "ensenanzas": [
+      "Primer y segundo cursos de bachillerato",
+      "Ciclos de Formación Profesional de grado medio y de grado superior",
+      "Enseñanzas artísticas profesionales",
+      "Enseñanzas deportivas",
+      "Enseñanzas artísticas superiores",
+      "Estudios religiosos superiores",
+      "Estudios de idiomas realizados en escuelas oficiales de titularidad de las administraciones educativas",
+      "Cursos de acceso y cursos de preparación para las pruebas de acceso a la formación profesional y cursos de formación específicos para el acceso a los ciclos formativos de grado medio y de grado superior impartidos en centros públicos y en centros privados concertados que tengan autorizadas enseñanzas de formación profesional",
+      "Ciclos Formativos de Grado Básico",
+      "Enseñanzas universitarias conducentes a títulos oficiales de grado y de máster",
+      "Curso de preparación para acceso a la universidad de mayores de 25 años impartido por universidades públicas",
+      "Complementos de formación para acceso u obtención del título de máster y créditos complementarios para la obtención del título de grado"
+    ],
+    "requisitos": [
+      "No repetir curso total o parcialmente",
+      "Nota mínima de acceso: 5,00 puntos"
+    ],
+    "plazo_presentacion": {
+      "inicio": "19 de marzo de 2024",
+      "fin": "10 de mayo de 2024"
+    },
+    "archivo": "ayudas_24-25_docling.txt"
+  },
+  {
+    "curso": "2025-2026",
+    "cuantia_fija_renta": 1700.0,
+    "cuantia_fija_residencia": 2700.0,
+    "beca_basica": 300.0,
+    "beca_basica_ciclo_formativo": 350.0,
+    "cuantia_variable_min": 60.0,
+    "excelencia_tramos": [
+      {
+        "nota_min": 8.0,
+        "nota_max": 8.49,
+        "cuantia": 50
+      },
+      {
+        "nota_min": 8.5,
+        "nota_max": 8.99,
+        "cuantia": 75
+      },
+      {
+        "nota_min": 9.0,
+        "nota_max": 9.49,
+        "cuantia": 100
+      },
+      {
+        "nota_min": 9.5,
+        "nota_max": 10.0,
+        "cuantia": 125
+      }
+    ],
+    "ensenanzas": [
+      "Primer y segundo cursos de bachillerato",
+      "Ciclos de Formación Profesional de grado medio y de grado superior",
+      "Enseñanzas artísticas profesionales",
+      "Enseñanzas deportivas",
+      "Estudios religiosos superiores",
+      "Estudios de idiomas realizados en escuelas oficiales de titularidad de las administraciones educativas",
+      "Cursos de acceso y cursos de preparación para las pruebas de acceso a la formación profesional y cursos de formación específicos para el acceso a los ciclos formativos de grado medio y de grado superior impartidos en centros públicos y en centros privados concertados que tengan autorizadas enseñanzas de formación profesional",
+      "Ciclos Formativos de Grado Básico",
+      "Enseñanzas artísticas superiores",
+      "Enseñanzas universitarias conducentes a títulos oficiales de grado y de máster",
+      "Curso de preparación para acceso a la universidad de mayores de 25 años impartido por universidades públicas",
+      "Complementos de formación para acceso u obtención del título de máster y créditos complementarios para la obtención del título de grado"
+    ],
+    "requisitos": [
+      "Matriculación mínima: 60 créditos",
+      "No repetir curso total o parcialmente",
+      "Nota mínima de acceso: 5,00 puntos"
+    ],
+    "plazo_presentacion": {
+      "inicio": "24 de marzo de 2025",
+      "fin": "14 de mayo de 2025"
+    },
+    "archivo": "ayudas_25-26_docling.txt"
+  }
+]
