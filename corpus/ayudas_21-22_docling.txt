@@ -1,6 +1,5 @@
 &lt;unknown&gt;
 
-<!-- image -->
 
 RESOLUCIÓN  DE  LA  SECRETARÍA  DE  ESTADO  DE  EDUCACIÓN,  POR  LA  QUE  SE CONVOCAN BECAS DE CARÁCTER GENERAL PARA EL CURSO ACADÉMICO 2021-2022, PARA ESTUDIANTES QUE CURSEN ESTUDIOS POSTOBLIGATORIOS
 
@@ -17,11 +16,9 @@ ALCALÁ, 34
 
 28071 MADRID
 
-<!-- image -->
 
 DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
 
-<!-- image -->
 
 de traspasos de las funciones, medios y servicios necesarios para asumir el ejercicio efectivo de estas competencias.
 
@@ -47,9 +44,7 @@ Por todo ello, de conformidad con la disposición adicional novena de la Ley 24/
 
 La efectividad de esta cuantía adicional queda condicionada a la declaración de disponibilidad del crédito y, en su caso, a la previa aprobación de la modificación presupuestaria que proceda, con
 
-<!-- image -->
 
-<!-- image -->
 
 anterioridad a la resolución definitiva de la convocatoria. La mencionada declaración de disponibilidad del crédito se hará pública en el «Boletín Oficial del Estado», sin que implique apertura de plazo para presentar nuevas solicitudes ni el inicio de nuevo cómputo de plazo para resolver.
 
@@ -72,7 +67,6 @@ Para  el  curso  académico  2021-2022  y,  con  cargo  a  los  créditos  menci
 - c) Enseñanzas artísticas profesionales.
 - d) Enseñanzas deportivas.
 
-<!-- image -->
 
 - e) Enseñanzas artísticas superiores.
 - f)  Estudios religiosos superiores.
@@ -100,11 +94,8 @@ Para cursar en el año académico 2021-2022 las enseñanzas enumeradas en el art
 - e) Beca básica.
 - 2.  Cuantía variable. La beca podrá incluir, asimismo, una cuantía variable y distinta para los diferentes solicitantes que resultará de la ponderación de la nota media del expediente del estudiante y de su renta familiar.
 
-<!-- image -->
 
-<!-- image -->
 
-<!-- image -->
 
 ## Artículo 5. Beca de matrícula .
 
@@ -128,9 +119,7 @@ Artículo 6. Cuantía fija ligada a la renta del estudiante.
 - Artículo 7. Cuantía fija ligada a la residencia del estudiante durante el curso escolar .
 - 1. Podrán ser beneficiarios de la cuantía fija ligada a la residencia del solicitante quienes cursen en régimen presencial y de matrícula completa o en régimen semipresencial y de matrícula completa
 
-<!-- image -->
 
-<!-- image -->
 
 los estudios enumerados en las letras a) a f) del artículo 3.1 y en la letra a) del artículo 3.2 de esta Resolución.
 
@@ -153,9 +142,7 @@ Procederá el pago de la cuantía fija ligada a la residencia exclusivamente cua
 - 2. Para la adjudicación de la cuantía ligada a la excelencia en el rendimiento académico se requerirá que el solicitante acredite haber obtenido una nota media de 8,00 puntos o superior en el curso, pruebas de acceso o estudios previos siguientes:
 - a)  Enseñanzas de grado superior de formación profesional, de artes plásticas y diseño y de enseñanzas deportivas
 
-<!-- image -->
 
-<!-- image -->
 
 -  Estudiantes  de  primer  curso:  nota  media  obtenida  en  segundo  curso  de  bachillerato, prueba o curso de acceso respectivamente o en la calificación final del ciclo formativo de grado medio que dé acceso al ciclo formativo de grado superior.
 -  Estudiantes de segundos y posteriores cursos: nota media obtenida en el curso anterior,
@@ -178,9 +165,7 @@ El cómputo de la nota media se realizará conforme al procedimiento establecido
 
 - 3. Para la adjudicación de la cuantía ligada a la excelencia académica se aplicará el umbral 3 de renta familiar establecido en esta Resolución
 
-<!-- image -->
 
-<!-- image -->
 
 ## Artículo 9. Beca básica.
 
@@ -192,7 +177,7 @@ Artículo 10. Cuantía variable .
 
 - 1. El  montante de crédito que, de acuerdo con el apartado 3 del artículo 2 se destinará a la cuantía variable, se distribuirá entre los solicitantes en función de su renta familiar y de su rendimiento académico, mediante la aplicación de la siguiente fórmula:
 
-<!-- formula-not-decoded -->
+Cj = Cmin + [Ctotal * (Nj / Nmax) * (1 - (Rj / Rmax)) / Σ[(Ni / Nmax) * (1 - (Ri / Rmax))]]
 
 En la que,
 
@@ -218,7 +203,6 @@ Rmax = Renta per cápita máxima para ser beneficiario de la cuantía variable
 
 Para  el  cálculo  de  la  nota  media  del  estudiante,  referida  anteriormente  N  se  aplicarán  las siguientes reglas:
 
-<!-- image -->
 
 CSV : GEN-93d6-2263-c487-92ef-6239-85f3-9e53-1098
 
@@ -226,7 +210,6 @@ DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/serv
 
 FIRMANTE(1) : ALEJANDRO TIANA FERRER | FECHA : 28/07/2021 09:29 | NOTAS : F
 
-<!-- image -->
 
 A las calificaciones de los becarios de primer curso de grado procedentes de la Evaluación de Bachillerato para el Acceso a la Universidad se les aplicará un coeficiente corrector igual al cociente entre  la  calificación  media  obtenida  en  los  estudios  universitarios  por  los  becarios  del  área  de conocimiento que corresponda y la calificación media obtenida en Evaluación de Bachillerato para el Acceso a la Universidad, excluyendo la nota de las pruebas de las materias de opción del bloque de las asignaturas troncales, por todos los beneficiarios que van cursar primer curso en dicha área de conocimiento.
 
@@ -249,9 +232,7 @@ Para los becarios de segundos cursos de formación profesional se tendrá en cue
 
 No obstante, quienes cursen estudios no universitarios en modalidad íntegramente no presencial, quienes opten por la matrícula parcial, oferta específica para personas adultas o bachillerato nocturno estructurado en más de dos años, quienes cursen los estudios enumerados en las letras  g),  h )  e
 
-<!-- image -->
 
-<!-- image -->
 
 i) del artículo 3.1, en las letras  b) y c) del artículo 3.2 de esta Resolución, quienes únicamente realicen el  trabajo  de  fin  de  grado  o  máster,  o  titulaciones  de  planes  a  extinguir  sin  docencia  presencial recibirán la cuantía variable mínima.
 
@@ -285,9 +266,7 @@ Esta cantidad adicional será de 623,00 euros para los becarios con domicilio fa
 
 En  el  caso  de  que  el  estudiante  tenga  que  desplazarse  entre  las  islas  Baleares  o  las  islas Canarias y la Península Ibérica, las cantidades a que se refieren los dos párrafos anteriores serán de 888,00 euros y 937,00 euros, respectivamente.
 
-<!-- image -->
 
-<!-- image -->
 
 Para la concesión de estas cuantías adicionales se aplicará el umbral 2 de renta familiar.
 
@@ -307,9 +286,7 @@ Artículo 14. Régimen de las becas para las víctimas de violencia de género.
 - 2.º) Estudiantes de grado superior de formación profesional, de artes plásticas y diseño y de enseñanzas deportivas: 500 horas
 - 3.º) Estudiantes de bachillerato, enseñanzas profesionales de música y danza y grado medio de  formación  profesional,  enseñanzas  profesionales  de  artes  plásticas  y  diseño  y  de  las enseñanzas deportivas: 4 asignaturas o 500 horas, respectivamente.
 
-<!-- image -->
 
-<!-- image -->
 
 - 4.º) Estudiantes universitarios: 30 créditos o la mitad del curso completo en el caso de dobles titulaciones de grado. En estos casos, la beca de matrícula se extenderá a los créditos que se matriculen tanto por primera como por segunda vez.
 
@@ -335,11 +312,9 @@ Tendrán la consideración de «familiares» el cónyuge o la pareja legal, así
 
 En el supuesto de extranjeros no comunitarios, se aplicará lo dispuesto en la normativa sobre derechos y libertades de los extranjeros en España y su integración social.
 
-<!-- image -->
 
 CSV : GEN-93d6-2263-c487-92ef-6239-85f3-9e53-1098 DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm FIRMANTE(1) : ALEJANDRO TIANA FERRER | FECHA : 28/07/2021 09:29 | NOTAS : F
 
-<!-- image -->
 
 Los  requisitos  establecidos  en  este  apartado  deberán  reunirse  a  31  de  diciembre  de  2020. Excepcionalmente, en el caso de solicitantes de estatuto de refugiado o protección subsidiaria, el permiso de residencia legal podrá obtenerse hasta el 30 de junio de 2021.
 
@@ -360,9 +335,7 @@ Artículo 16 Determinación de la renta computable.
 
 - 1.    Para  el  cálculo  de  la  renta  y  el  patrimonio  familiar  a  efectos  de  beca,  son  miembros computables los padres y, en su caso, el tutor o persona encargada de la guarda y protección del menor, quienes tendrán la consideración de sustentadores principales de la familia. También serán miembros computables el solicitante, los hermanos solteros menores de 25 años, o los de mayor edad,  cuando  se  trate  de  personas  con  discapacidad  física,  psíquica  o  sensorial,  así  como  los menores  en  régimen  de  acogimiento  permanente  o  de  guarda  con  fines  de  adopción  y  los ascendientes de los padres que justifiquen su residencia en el mismo domicilio que los anteriores con el certificado municipal correspondiente. Para ser considerado miembro computable deberá constar la convivencia en el domicilio familiar a 31 de diciembre de 2020.
 
-<!-- image -->
 
-<!-- image -->
 
 En  el  caso  de  solicitantes  que  constituyan  unidades  familiares  independientes,  se  considerarán miembros computables y sustentadores principales el solicitante y su cónyuge, su pareja registrada o  no  que  se  halle  unida  por  análoga  relación.  También  serán  miembros  computables  los  hijos menores de veinticinco años, si los hubiere, y convivan en el mismo domicilio.
 
@@ -383,9 +356,7 @@ Tratándose  de  estudiantes  independientes  o  que  formen  parte  de unidades
 - 2. Hallada la renta familiar a efectos de beca según lo establecido en los artículos anteriores, se aplicarán las deducciones siguientes:
 - a)   El  50  por  100  de  los  ingresos  aportados  por  cualquier  miembro  computable  de  la  familia distinto de los sustentadores principales.
 
-<!-- image -->
 
-<!-- image -->
 
 - b)   525,00  euros  por  cada  hermano que sea miembro computable, incluido el solicitante, que conviva en el domicilio familiar, cuando se trate de familias numerosas de categoría general y 800,00 euros para familias numerosas de categoría especial, siempre que tenga derecho a este beneficio. La deducción aplicable al solicitante universitario será de 2.000,00 euros cuando éste se encuentre afectado de una discapacidad de grado igual o superior al sesenta y cinco por ciento. Cuando sea el propio solicitante el titular de la familia numerosa, las cantidades señaladas serán computadas en relación con los hijos que la compongan.
 - c)  1.811,00 euros por cada hermano o hijo del solicitante o el propio solicitante que esté afectado de discapacidad, legalmente calificada, de grado igual o superior al treinta y tres por ciento y 2.881,00 euros cuando la discapacidad sea de grado igual o superior al sesenta cinco por ciento. Cuando sea el propio solicitante universitario quien esté afectado por la discapacidad de grado igual o superior al sesenta y cinco por ciento, la deducción aplicable a dicho solicitante será de 4.000,00 euros.
@@ -445,13 +416,11 @@ A partir del octavo miembro se añadirán 3.368,00 euros por cada nuevo miembro 
 
 30.668,00 euros.
 
-<!-- image -->
 
 DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
 
 FIRMANTE(1) : ALEJANDRO TIANA FERRER | FECHA : 28/07/2021 09:29 | NOTAS : F
 
-<!-- image -->
 
 • Familias de cuatro miembros:  36.421,00 euros.
 
@@ -511,7 +480,6 @@ Artículo 20. Umbrales indicativos de patrimonio familiar .
 -  Por 0,28 los revisados en 2010.
 -  Por 0,30 los revisados en 2011.
 
-<!-- image -->
 
 -  Por 0,32 los revisados en 2012.
 -  Por 0,34 los revisados en 2013.
@@ -535,11 +503,8 @@ Se denegará la beca cuando la suma de los referidos porcentajes supere el valor
 - a)  Ingresos  procedentes  de  actividades  económicas  en  estimación  directa  o  en  estimación objetiva.
 - b)  Ingresos  procedentes  de  una  participación  de  los  miembros  computables  desarrolladas  a través  de  entidades  sin  personalidad  jurídica  o  cualquier  otra  clase  de  entidad  jurídica,  una  vez aplicado a los ingresos totales de las actividades el porcentaje de participación en las mismas.
 
-<!-- image -->
 
-<!-- image -->
 
-<!-- image -->
 
 - 4. A los efectos del cómputo del valor de los elementos a que se refieren los párrafos anteriores, se deducirá el 50 por ciento del valor de los que pertenezcan a cualquier miembro computable de la familia, excluidos los sustentadores principales.
 
@@ -569,13 +534,11 @@ Para el cálculo de las notas medias a que se refieren los artículos siguientes
 - e) Suspenso, no presentado o no apto = 2,50 puntos.
 - 3. Cuando se trate de planes de estudio organizados por asignaturas, la nota media se calculará dividiendo el total de puntos obtenidos entre el número total de asignaturas.
 
-<!-- image -->
 
 DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
 
 FIRMANTE(1) : ALEJANDRO TIANA FERRER | FECHA : 28/07/2021 09:29 | NOTAS : F
 
-<!-- image -->
 
 - 4. Cuando se trate de planes de estudios organizados por créditos, la puntuación obtenida en cada asignatura se ponderará en función del número de créditos que la integren, de acuerdo con la siguiente fórmula:
 
@@ -604,9 +567,7 @@ En el supuesto de matricularse de un número superior de créditos, todos ellos 
 - A los efectos de esta convocatoria, esta situación se denominará matrícula parcial y serán de aplicación las siguientes reglas:
 - a) Quienes opten por la matrícula parcial y no se matriculen de todos aquellos créditos de los que les fuera posible, podrán obtener la beca de matrícula y la cuantía variable mínima. Para obtener
 
-<!-- image -->
 
-<!-- image -->
 
 la beca en el siguiente curso deberán aprobar la totalidad de los créditos en que hubieran estado matriculados.
 
@@ -618,9 +579,7 @@ la beca en el siguiente curso deberán aprobar la totalidad de los créditos en 
 - 7. Las comisiones de selección de becarios de las universidades que admitan primera matrícula en  el  segundo  cuatrimestre,  adaptarán  a  esa  circunstancia  las  disposiciones  de  la  presente Resolución.
 - 8. En el caso de cursos que tengan carácter selectivo no se concederá beca al estudiante que esté  repitiendo  curso  total  o  parcialmente.  Se  entenderá  que  cumple  el  requisito  académico  del número  mínimo  de  créditos  matriculados  en  el  curso  anterior  para  obtener  beca  cuando  haya superado totalmente el mencionado curso selectivo.
 
-<!-- image -->
 
-<!-- image -->
 
 - 9. Quienes se matriculen en el mismo curso académico de créditos conducentes a una titulación oficial  de grado y, a continuación, de créditos conducentes a una titulación oficial de máster, podrán obtener la beca de matrícula para los créditos correspondientes a la titulación de máster, siempre que acrediten reunir los requisitos establecidos para dichos estudios en los artículos  28 y siguientes de esta Resolución,  además de las cuantías que les correspondan, de acuerdo con lo previsto en esta convocatoria, para los créditos de que hayan quedado matriculados correspondientes a la titulación de grado.
 
@@ -644,9 +603,7 @@ Los estudiantes que se hubieran matriculado en régimen de matrícula parcial en
 - 5. En el caso de haberse matriculado en un número de créditos superior al mínimo, todos ellos, incluso los de libre elección, serán tenidos en cuenta para la valoración de los requisitos académicos establecidos en esta Resolución.
 - 6.  Para  calcular  el  porcentaje  de  créditos  superados  no  se  tendrán  en  cuenta  los  créditos correspondientes a asignaturas matriculadas en el curso 2020-2021 que, como consecuencia de la
 
-<!-- image -->
 
-<!-- image -->
 
 aplicación de las medidas adoptadas para la contención de la pandemia del COVID 19, no le hayan podido ser evaluados al estudiante. En estos casos, el porcentaje de créditos superados se calculará sobre  el  número  de  créditos  o  asignaturas  efectivamente  evaluadas  o  que  hubieran  podido  ser evaluadas.
 
@@ -666,9 +623,7 @@ Cuando los referidos créditos adicionales estuvieran comprendidos entre treinta
 - 8.  En  el  supuesto  de  cambio  de  estudios  cursados  totalmente  sin  condición  de  becario,  se considerará a estos efectos como rendimiento académico que debe cumplir el solicitante para obtener beca en los nuevos estudios, el requisito académico que hubiera debido obtener en el último curso de los estudios abandonados.
 - 9. No se considerarán cambios de estudios las adaptaciones a nuevos planes de las mismas enseñanzas, debiendo, en todo caso, cumplirse los requisitos académicos establecidos con carácter general.
 
-<!-- image -->
 
-<!-- image -->
 
 Artículo 26. Excepcional rendimiento académico .
 
@@ -703,9 +658,7 @@ Cuando las dos titulaciones cursadas no pertenezcan a la misma rama o área de c
 
 En los casos de dobles titulaciones no será de aplicación lo dispuesto para los supuestos de excepcional rendimiento académico.
 
-<!-- image -->
 
-<!-- image -->
 
 - 3. Duración de la condición de becario.
 
@@ -725,9 +678,7 @@ No obstante, en el caso de que una o ambas titulaciones pertenezcan a la rama o 
 - d) Las asignaturas o créditos reconocidos, convalidados y adaptados no se tendrán en cuenta a efectos del cumplimiento de los requisitos académicos establecidos en este artículo.
 - 3. En el caso de matricularse en un número de créditos superior al mínimo exigido todos ellos serán tenidos en cuenta para la valoración del rendimiento académico del solicitante.
 
-<!-- image -->
 
-<!-- image -->
 
 - 4.  En  ningún  caso  entrarán  a  formar  parte  de  los  mínimos  a  que  se  refieren  los  apartados anteriores, créditos correspondientes a distintas especialidades o que superen los necesarios para la obtención del título correspondiente.
 - 5. Los estudiantes que con una discapacidad de un grado igual o superior al 65 por ciento, podrán reducir la carga lectiva necesaria para cumplir el requisito de matriculación indicado en el párrafo 1 de este artículo hasta un máximo del 50 por ciento quedando sujetas las cuantías a lo establecido en el artículo 13 de la presente Resolución. En ningún caso podrá optar a beca con una matrícula inferior a 30 créditos.
@@ -751,9 +702,7 @@ Para  valorar el número  de  créditos  superados  no  se  tendrán  en  cuenta
 
 - 1. Para la concesión de beca a quienes se matriculen por primera vez de primer curso de estudios de máster, la nota media requerida se calculará con las calificaciones numéricas obtenidas por los estudiantes en la escala 0 a 10 en los créditos de que conste el plan de estudios de la titulación que les da acceso al máster.
 
-<!-- image -->
 
-<!-- image -->
 
 - 2. Para la concesión de beca a quienes se matriculen de segundo curso, la nota media requerida será la calificación numérica obtenida en la escala 0 a 10 en el curso anterior, incluyendo, en su caso, los complementos formativos cursados.
 - 3. Cuando no existan calificaciones numéricas, las calificaciones obtenidas se computarán según el siguiente baremo:
@@ -780,9 +729,7 @@ Los valores resultantes de la aplicación de dicha fórmula se sumarán, siendo 
 - 8. Para el cálculo de la nota media en el caso de expedientes procedentes de universidades extranjeras,  la  comisión  de  selección  establecerá  la  equivalencia  al  sistema  decimal  español asignatura  por  asignatura,  teniendo  en  cuenta  la  nota  mínima  de  aprobado  y  la  máxima  de  la calificación  original  y  la  consiguiente  relación  de  correspondencia  con  el  sistema  de  calificación decimal español.
 - 9. Cuando el acceso al máster se produzca desde titulaciones de sólo segundo ciclo, la nota media se hallará teniendo en cuenta también las calificaciones obtenidas en el primer ciclo anterior.
 
-<!-- image -->
 
-<!-- image -->
 
 La nota media se obtendrá de la suma de las calificaciones obtenidas en cada una de las asignaturas dividida por el total.
 
@@ -810,11 +757,9 @@ Las asignaturas no presentadas se valorarán con 2,50 puntos.
 
 - 2ª. En el caso de los alumnos que accedan directamente desde cualquier ciclo de formación profesional a unas enseñanzas no universitarias de nivel superior, la nota media será la calificación final del ciclo formativo correspondiente desde el que se accede.
 
-<!-- image -->
 
 DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm FIRMANTE(1) : ALEJANDRO TIANA FERRER | FECHA : 28/07/2021 09:29 | NOTAS : F
 
-<!-- image -->
 
 - 3ª. En todo caso, las notas medias serán las correspondientes al curso o, en el caso de la regla 2ª anterior, al ciclo completo, con independencia del número de años que el alumno hubiera empleado para su superación.
 - 4ª.  Únicamente  cuando  no  existan  calificaciones  numéricas,  las  calificaciones  obtenidas  se computarán según el siguiente baremo:
@@ -843,9 +788,7 @@ Los valores resultantes de la aplicación de dicha fórmula se sumarán, siendo 
 
 Artículo 33. Enseñanzas de grado superior de formación profesional, de artes plásticas y diseño y de enseñanzas deportivas.
 
-<!-- image -->
 
-<!-- image -->
 
 - 1. Para obtener beca en las enseñanzas a que se refiere este artículo, se establecen los siguientes requisitos:
 - 1º. Matriculación.
@@ -873,9 +816,7 @@ Para obtener beca, los solicitantes de primer curso de las enseñanzas previstas
 
 Los estudiantes de segundos y posteriores cursos organizados por módulos deberán acreditar haber superado en el curso anterior, al menos, un número de módulos que supongan el ochenta y
 
-<!-- image -->
 
-<!-- image -->
 
 cinco  por  ciento  de  las  horas  totales  del  curso  en  que  hubieran  estado  matriculados  que,  como mínimo, deberán ser los que se señalan en el apartado 1º anterior.
 
@@ -903,9 +844,7 @@ Para obtener beca en las enseñanzas a que se refiere este artículo, los solici
 
 Quienes utilicen la oferta específica de personas adultas, bachillerato nocturno organizado en más de dos años u oferta de matrícula parcial, podrán también obtener la beca siempre que se matriculen de, al menos, cuatro asignaturas o un número de módulos cuya suma horaria sea igual o superior a 500 horas, que deberán aprobar en su totalidad para obtenerla en el siguiente curso. Los becarios que hagan uso de alguna de estas posibilidades podrán ser beneficiarios de la beca básica y de la cuantía variable mínima.
 
-<!-- image -->
 
-<!-- image -->
 
 Lo dispuesto en el párrafo anterior será también de aplicación para la beca del tercer curso de quienes cursen ciclos formativos de más de dos años de duración.
 
@@ -933,9 +872,7 @@ Quienes cursen enseñanzas íntegramente no presenciales o utilicen ofertas de m
 
 - 2. Quienes cursen el proyecto de fin de estudios que no constituya una asignatura ordinaria del plan de estudios podrán obtener beca básica y cuantía variable mínima que se concederán para un único curso académico y por una sola vez. Para la obtención de estas ayudas se requerirá tener totalmente superado el ciclo y haber disfrutado de la condición de becario en el curso anterior.
 
-<!-- image -->
 
-<!-- image -->
 
 Artículo 35. Enseñanzas de idiomas.
 
@@ -969,9 +906,7 @@ No se concederá beca a quienes estén repitiendo curso. Se entenderá que cumpl
 
 Para  realizar  cursos  de  acceso,  de  preparación  de  las  pruebas  de  acceso  a  la  formación profesional y cursos de formación específicos para el acceso a los ciclos formativos de grado medio y de grado superior se concederá beca por una única vez.
 
-<!-- image -->
 
-<!-- image -->
 
 Para cursar Ciclos Formativos de Grado Básico , no se podrá disfrutar de beca durante más años de los establecidos en el plan de estudios.
 
@@ -1005,9 +940,7 @@ En los casos de matrícula parcial se concederán los componentes de beca básic
 
 Los  estudiantes  de  primer  curso  deberán  acreditar  haber  obtenido  en  la  prueba  o  curso  de acceso 5,00 puntos. En los siguientes cursos deberán haber superado el noventa por ciento de las materias o asignaturas del curso anterior. Para calcular el número de asignaturas superadas no se tendrán en cuenta aquellas que, como consecuencia de la aplicación de las medidas adoptadas para
 
-<!-- image -->
 
-<!-- image -->
 
 la contención de la pandemia no le hayan podido ser evaluadas al becario. En este caso, el número de asignaturas superadas se calculará sobre las efectivamente evaluadas o que hubieran podido ser evaluadas
 
@@ -1037,9 +970,7 @@ Los beneficiarios de las becas que se convocan por esta Resolución quedan oblig
 - d)  Declarar, específicamente en los supuestos de cambio de estudios, el hecho de haber sido becario en años anteriores, así como de estar en posesión o en condiciones legales de obtener un título académico del mismo o superior nivel de estudios que aquel para el que se solicita la beca.
 - e) Comunicar a la entidad concedente la obtención de subvenciones o becas para la misma finalidad, procedentes de cualquier administración o ente público o privado nacional o internacional.
 
-<!-- image -->
 
-<!-- image -->
 
 - f) Poner en conocimiento de la entidad concedente la anulación de matrícula, así como cualquier alteración de las condiciones tenidas en cuenta para la concesión de la beca.
 - g) Proceder al reintegro de los fondos en los casos previstos en la normativa vigente.
@@ -1061,9 +992,7 @@ Los beneficiarios de las becas que se convocan por esta Resolución quedan oblig
 
 - 1. Finalizado el curso 2021-2022, los órganos gestores de las comunidades autónomas y de las universidades obtendrán la relación nominal de todos sus estudiantes que hayan obtenido alguna de las becas convocadas por esta Resolución con indicación de su documento nacional de identidad, clases y cuantía de la beca concedida y centro en el que cursan los estudios.
 
-<!-- image -->
 
-<!-- image -->
 
 - 2.  A  través  de  las  secretarías  de  los  centros  docentes,  los  citados  órganos  y  universidades comprobarán que los mencionados estudiantes han destinado la beca para la finalidad para la que fue concedida, requiriéndose, a estos efectos, que los estudiantes universitarios superen el cincuenta por ciento de los créditos matriculados en la convocatoria ordinaria o extraordinaria. En el supuesto de enseñanzas de la rama de ciencias y de la rama de enseñanzas técnicas, el porcentaje mínimo a superar será del cuarenta por ciento. Para el cálculo de este porcentaje se excluirán los créditos convalidados,  reconocidos  o  adaptados.  En  caso  contrario,  procederá  el  reintegro  de  todos  los componentes de la beca con excepción de la beca de matrícula.
 
@@ -1086,9 +1015,7 @@ Tratándose de estudiantes de niveles no universitarios se entenderá que no han
 - 1.  Terminado  el  proceso  de  adjudicación  de  las  becas,  las  administraciones  educativas correspondientes  y  las  universidades  verificarán,  al  menos,  un  cinco  por  ciento  de  las  becas concedidas.
 - 2.  Las  concesiones  de  becas  serán  modificadas  con  reintegro  de  todos  o  alguno  de  sus componentes, en caso de descubrirse que en su concesión concurrió ocultación o falseamiento de datos o que existe incompatibilidad con otros beneficios de esta clase procedentes de otras personas físicas o jurídicas.
 
-<!-- image -->
 
-<!-- image -->
 
 También serán modificadas y reintegradas en el caso de probarse que su importe no ha sido destinado a la finalidad para la que fueron concedidas, según se expresa en el artículo anterior o que han sido concedidas a estudiantes que no reunían alguno o algunos de los requisitos establecidos, o no los acrediten debidamente.
 
@@ -1110,11 +1037,9 @@ Tanto el acuerdo de inicio como la resolución de reintegro o sobreseimiento del
 
 Las modificaciones y reintegros de becas deberán reflejarse en las correspondientes bases de datos de becarios.
 
-<!-- image -->
 
 CSV : GEN-93d6-2263-c487-92ef-6239-85f3-9e53-1098 DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm FIRMANTE(1) : ALEJANDRO TIANA FERRER | FECHA : 28/07/2021 09:29 | NOTAS : F
 
-<!-- image -->
 
 Artículo 46. Aplicación de la Ley General de Subvenciones .
 
@@ -1137,9 +1062,7 @@ Asimismo, el solicitante o su representante legal en el caso de ser menor de 18 
 
 Quienes aleguen independencia familiar y económica deberán justificar fehacientemente que cuentan con medios económicos propios suficientes que permitan dicha independencia, así como la titularidad o el alquiler de su domicilio habitual.
 
-<!-- image -->
 
-<!-- image -->
 
 En cualquier momento del procedimiento, se podrá requerir la aportación de los documentos originales justificativos de las circunstancias alegadas.
 
@@ -1165,9 +1088,7 @@ Las  solicitudes  de  beca  deberán  presentarse,  en  todo  caso,  en  los  pl
 
 En estos casos, las solicitudes se presentarán directamente en las comunidades autónomas o en las universidades en las que corresponda realizar los estudios para los que se solicita la beca y los órganos colegiados de selección atenderán, para la concesión o denegación de la beca solicitada a  la  nueva  situación  económica  familiar  sobrevenida.  Para  que  esta  nueva  situación  económica familiar pueda  ser tenida en cuenta, será preciso que el solicitante exponga  y acredite documentalmente tanto la realidad de los hechos causantes de la situación como las características de la misma.
 
-<!-- image -->
 
-<!-- image -->
 
 - 3.  Además  de  por  el  procedimiento  previsto  en  el  artículo  anterior,  podrán  presentarse  las solicitudes en los registros, oficinas de correos, oficinas consulares de España o en cualquiera de las formas previstas en el artículo 16.4 de la Ley 39/2015, de 1 de octubre.
 
@@ -1189,9 +1110,7 @@ Además, formarán parte del mismo aquellas otras personas o representantes, en 
 - a) Presidente:  El  director  provincial  del  Ministerio  de  Educación  y  Formación  Profesional Vicepresidente: El secretario general de la dirección provincial del Ministerio de Educación y Formación Profesional
 - b) Vocales: Dos inspectores técnicos; el jefe de programas; el jefe del servicio y/o jefe de la sección de que dependan las unidades de gestión de becas; un director de centro público y otro de un centro privado, designados por el director provincial del Ministerio de Educación y Formación  Profesional;  un  representante  de  la  correspondiente  ciudad  autónoma;  tres representantes de los padres, dos de centros públicos y uno de centro privado concertado, elegidos entre aquellos que forman parte de los consejos escolares; tres representantes de las organizaciones estudiantiles que sean mayores de dieciséis años y becarios del Estado.
 
-<!-- image -->
 
-<!-- image -->
 
 Cuando no existan suficientes candidatos estudiantiles que tengan la condición de becarios, podrán formar parte de la comisión estudiantes en los que no concurra esta circunstancia.
 
@@ -1214,9 +1133,7 @@ Artículo 51. Revisión de solicitudes y subsanación de defectos .
 - 3. En casos específicos, los órganos colegiados de selección de solicitudes de becas podrán requerir los documentos complementarios que se estimen precisos para un adecuado conocimiento de las circunstancias peculiares de cada caso, a los efectos de garantizar la correcta inversión de los recursos presupuestarios destinados a becas.
 - 4.  Los  mencionados  órganos  de  selección  remitirán  al  Ministerio  de  Educación  y  Formación Profesional, quincenalmente, y, en todo caso, antes del 29 de diciembre de 2021 y por cualquiera de las  vías  informáticas  habilitadas  al  efecto,  un  informe  en  el  que  se  concrete  el  resultado  de  la evaluación efectuada de los solicitantes que reúnan los mencionados requisitos generales.
 
-<!-- image -->
 
-<!-- image -->
 
 - 5. Los soportes informáticos a que se refiere el párrafo anterior contendrán los datos académicos necesarios  para  la  comprobación  de  los  requisitos  correspondientes  y  se  acompañarán  de  la correspondiente  acta  del  órgano  de  selección  que  contendrá  el  informe  anteriormente  señalado, especificando sus datos identificativos, así como los criterios de valoración seguidos para efectuarlo.
 - 6. Con estas solicitudes, el Ministerio de Educación y Formación Profesional  comprobará, por los  procedimientos informáticos establecidos, el cumplimiento por parte de los solicitantes de los requisitos  académicos  que  establece  esta  convocatoria  y  elaborará  una  base  de  datos  que contrastará  con  la  información  sobre  rentas  y  patrimonios  que  le  faciliten  las  administraciones tributarias correspondientes a los efectos de determinar, asimismo, el cumplimiento de los requisitos económicos establecidos en la presente convocatoria.
@@ -1230,11 +1147,9 @@ Artículo 51. Revisión de solicitudes y subsanación de defectos .
 
 Asimismo, el Ministerio de Educación y Formación Profesional elaborará una base de datos en soporte informático con las solicitudes que deban resultar denegadas con indicación de sus causas y  clasificadas  por  órganos  de  selección.  A  estos  efectos,  los  órganos  de  selección  remitirán  la información que resulte necesaria sobre las solicitudes denegadas con indicación, en todo caso, de los datos identificativos del solicitante y de la causa de denegación.
 
-<!-- image -->
 
 DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
 
-<!-- image -->
 
 - 2. La Subdirección General de Becas, Ayudas al Estudio y Promoción Educativa (en adelante SGBecas), como órgano instructor del procedimiento, elevará las oportunas propuestas de concesión de las mencionadas cuantías, a los efectos de que el Director General de Planificación y Gestión Educativa,  en  virtud  de  las  competencias  delegadas  del  Secretario  de  Estado  de  Educación,  de acuerdo con la Orden EFP/43/2021, de 21 de enero,  dicte las correspondientes órdenes parciales y sucesivas  de  concesión  a  medida  que  los  órganos  de  selección  formulen  las  correspondientes propuestas
 
@@ -1252,9 +1167,7 @@ Asimismo, formulará propuesta de denegación de las solicitudes que no reúnan 
 - 5. Tanto las notificaciones de concesión como las propuestas de denegación podrán emitirse por cualquiera  de  los  medios  admitidos  en  la  normativa  reguladora  del  procedimiento  administrativo incluidos  correos  electrónicos,  debiendo  los  interesados  proceder  a  efectuar  la  descarga  de  su contenido en la dirección electrónica https://sede.educacion.gob.es en el apartado «Mis Notificaciones».
 - 6. Conocido el coste de las referidas cuantías y, por tanto, el importe no invertido en las mismas, el  Secretario  de  Estado  de  Educación  del  Ministerio  de  Educación  y  Formación  Profesional  y  el Secretario General de Universidades, del Ministerio de  Universidades dictarán resolución asignando el porcentaje de dicho importe que se destinará a la cuantía variable que corresponda, por una parte, a  los  estudiantes  universitarios,  de  enseñanzas  artísticas  superiores  y    de  estudios  religiosos superiores  y,  por  otra,  a  los  demás  estudiantes  no  universitarios.  El  Ministerio  de  Educación  y Formación  Profesional  distribuirá  los  referidos  montantes  entre  todos  los  becarios  que  tengan derecho a la cuantía variable conforme a lo dispuesto en esta convocatoria, con excepción de quienes ya hayan percibido la cuantía variable mínima. Dicha distribución se efectuará mediante la aplicación
 
-<!-- image -->
 
-<!-- image -->
 
 de la fórmula recogida en el artículo 10 de esta Resolución que asignará a cada uno de los becarios el importe de cuantía variable que les corresponda.
 
@@ -1272,9 +1185,7 @@ Artículo 54. Exención de los precios públicos por servicios académicos y abo
 - 2. No obstante lo dispuesto en el párrafo anterior, las secretarías de los centros universitarios podrán  requerir  cautelarmente  el  abono  de  dichos  precios  públicos  a  quienes  no  cumplan  los requisitos establecidos en esta convocatoria.
 - 3. Conforme a lo dispuesto en la disposición adicional cuarta del Real Decreto 471/2021, de 29 de junio, por el que se establecen los umbrales de renta y patrimonio familiar  y las cuantías de las becas  y  ayudas  al  estudio  para  el  curso  2021-2022  y  se  modifica  parcialmente  el  Real  Decreto 1721/2007, de 21 de diciembre, el Ministerio de Educación y Formación Profesional aportará a las universidades,  en  concepto  de  compensación  de  los  precios  públicos  por  servicios  académicos correspondientes a los estudiantes becarios exentos de su pago, una cantidad por estudiante becado igual a la del precio público fijado para la titulación correspondiente en el curso 2021-2022. En el supuesto de que el precio del crédito en el curso 2021-2022 fuese superior al compensado en el
 
-<!-- image -->
 
-<!-- image -->
 
 curso  2020-2021  para  los  mismos  estudios,  el  Ministerio  de  Educación  y  Formación  Profesional aportará a las universidades una cantidad por estudiante becado igual a este último importe.
 
@@ -1293,9 +1204,7 @@ Conforme a lo dispuesto en el artículo 19.3 de la Ley 38/2003, de 17 de noviemb
 - 5.  A  la  vista  de  la  documentación  aportada,  el  Director  General  de  Planificación  y  Gestión Educativa, asimismo  por  delegación  del Secretario de Estado  de  Educación,  resolverá el procedimiento con la asignación de las cantidades correspondientes por este concepto mediante resolución que se publicará en la página web del Ministerio de Educación y Formación Profesional.
 - 6. A efectos de lo dispuesto en el apartado 4 de la disposición adicional cuarta del Real Decreto 471/2021, de 29 de junio, por el que se establecen los umbrales de renta y patrimonio familiar y las cuantías de las becas y ayudas al estudio del Ministerio de Educación y Formación Profesional  para el curso 2021-2022 y se modifica parcialmente el Real Decreto 1721/2007, de 21 de diciembre, el
 
-<!-- image -->
 
-<!-- image -->
 
 citado Departamento facilitará a las CCAA que lo requieran información sobre las cantidades que hubiera compensado a las universidades por este concepto.
 
@@ -1322,9 +1231,7 @@ Será responsabilidad de los órganos de selección el cumplimiento de los plazo
 
 - 1.  La  resolución  de  la  convocatoria  pondrá  fin  a  la  vía  administrativa  y  podrá  ser  recurrida potestativamente en reposición en el plazo de un mes contado a partir del día siguiente al de su publicación  en  la  página  web  del  Ministerio  de  Educación  y  Formación  Profesional.  Contra  la resolución  de  dicho  recurso  administrativo  podrá  interponerse  recurso  contencioso-administrativo
 
-<!-- image -->
 
-<!-- image -->
 
 ante la Sala de lo Contencioso Administrativo de la Audiencia Nacional de acuerdo con lo previsto en los artículos 11.1 y 46 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso Administrativa. En caso de resolución expresa del recurso potestativo de reposición, el plazo será de dos meses y se contará desde el día siguiente a aquel en que se notifique dicha resolución expresa; si  no  hubiera  resolución  expresa  del  recurso  de  reposición,  el  plazo  para  interponer  el  recurso contencioso-administrativo será de seis meses y se contará a partir del día siguiente a aquel en que deba entenderse presuntamente desestimado.
 
@@ -1346,9 +1253,7 @@ A estos efectos, las universidades y órganos correspondientes de las Comunidade
 - 2. Las solicitudes de beca, que deberán ser formuladas en la forma prevista en esta Resolución podrán consignar los ingresos de la familia en la moneda propia del país en que se obtengan. El cálculo de su contravalor en euros se hará aplicando el tipo oficial que dé un resultado menor y que hubiera tenido la moneda respectiva el primer día hábil de 2021.
 - 3. En el caso de los alumnos de los centros españoles en Francia, Reino Unido e Italia en cuya renta familiar se computen ingresos obtenidos en los países correspondientes, dichos ingresos se multiplicarán por el coeficiente 0,80.
 
-<!-- image -->
 
-<!-- image -->
 
 - 4. Para estos alumnos, las consejerías de educación llevarán a cabo las tareas que se asignan en esta Resolución a las direcciones provinciales del Ministerio de Educación y Formación Profesional y calcularán la renta de los solicitantes y verificarán el cumplimiento de los requisitos generales y académicos requeridos. Acto seguido, remitirán las solicitudes que cumplan todos los requisitos a la SGBecas con indicación de las cuantías que correspondan a cada solicitante. Asimismo, notificarán a los interesados las propuestas de denegación correspondientes En cada consejería de educación estas tareas se llevarán a cabo por la comisión de selección de becarios que tendrá la siguiente composición:
 - a) Presidente: El consejero de educación o persona en quien delegue.
@@ -1373,9 +1278,7 @@ Bajo la expresión «enseñanzas técnicas» que aparece en esta Resolución se 
 - 1.  Los  estudiantes  extranjeros  que  soliciten  beca  al  amparo  de  esta  convocatoria  deberán acreditar estar en posesión de los requisitos exigibles en la forma que determine el correspondiente órgano de selección, declarando concretamente el nivel de su titulación académica.
 - 2. Cuando los ingresos o los resultados académicos a acreditar procedan de un país extranjero, los correspondientes órganos de selección requerirán al solicitante la aportación de la documentación que consideren necesaria a dichos efectos.
 
-<!-- image -->
 
-<!-- image -->
 
 En este caso se podrán consignar los ingresos de la familia en la moneda propia del país en que se obtengan. El cálculo de su contravalor en euros se hará aplicando el tipo oficial que dé un resultado menor y que hubiera tenido la moneda respectiva el primer día hábil de 2021.
 
@@ -1402,9 +1305,7 @@ Quienes, estando ingresados en centros penitenciarios, cursen alguna de las ense
 - 1. Mediante los oportunos convenios de colaboración con el Ministerio de Educación y Formación Profesional  y  en  los  términos  establecidos  en  los  mismos,  las  comunidades  autónomas  podrán realizar, respecto de las becas que se convocan por la presente Resolución, con excepción de las correspondientes a los estudiantes de la Universidad Nacional de Educación a Distancia (UNED) y del Centro para la Innovación y Desarrollo de la Educación a Distancia (CIDEAD), las funciones de tramitación adjudicación y pago, así como la inspección, verificación, control y, en su caso, resolución de los recursos administrativos que puedan interponerse.
 - 2. A estos efectos, las tareas que en esta resolución se encomiendan a la Secretaría de Estado de  Educación,  a  la  Dirección  General  de  Planificación  y  Gestión  Educativa  y  a  la  SGBecas  con excepción de las previstas en los artículos 2.3,  52.1 y  52.6 en lo que se refiere a la distribución del
 
-<!-- image -->
 
-<!-- image -->
 
 montante total destinado a la cuantía variable entre los becarios universitarios y no universitarios, y en los artículos 53.2 y 55.1 serán llevadas a cabo, en el ámbito de su competencia, por los órganos que determinen las comunidades autónomas firmantes del convenio.
 
@@ -1431,11 +1332,8 @@ La Dirección General de Planificación y Gestión Educativa adoptará las medid
 - 1. Contra esta Resolución de convocatoria, se podrá interponer recurso de reposición ante la Secretaría de Estado de Estado de Educación, en el plazo de un mes a contar desde el día siguiente al de la publicación de su extracto en el «Boletín Oficial del Estado», de acuerdo con lo dispuesto en los artículos 123 y 124 de la Ley 39/2015, de 1 de octubre. Contra la resolución de dicho recurso administrativo podrá interponerse recurso contencioso-administrativo ante la Sala de lo Contencioso Administrativo de la Audiencia Nacional de acuerdo con lo previsto en los artículos 11.1 y 46 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso Administrativa. El plazo será de dos meses y se contará desde el día siguiente a aquel en que se notifique la resolución expresa del recurso potestativo de reposición; si no hubiera resolución expresa del recurso de reposición, el plazo para interponer el recurso contencioso-administrativo será de seis meses y se contará a partir del  día  siguiente  a  aquel  en  que  deba  entenderse  presuntamente  desestimado  el  recurso  de reposición
 - 2. Sin perjuicio de lo anterior, de acuerdo con lo dispuesto en los artículos 11.1.a) y 46 de la Ley 29/1998, de 13 de julio, contra esta resolución de convocatoria podrá interponerse directamente recurso contencioso administrativo ante la Sala de lo Contencioso-Administrativo de la Audiencia
 
-<!-- image -->
 
-<!-- image -->
 
-<!-- image -->
 
 Nacional, en el plazo de dos meses a contar desde el día siguiente al de la publicación en el «Boletín Oficial del Estado», del extracto de la resolución.
 
