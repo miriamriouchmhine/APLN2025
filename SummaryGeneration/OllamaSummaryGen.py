@@ -81,7 +81,7 @@ Incluye cuantías(valor numérico en euros) por año, tramos de excelencia, ense
 """ 
     
     response = ollama.generate(
-        model="deepseek-r1:14b",#gemma3
+        model="gemma3",#gemma3
         prompt=prompt,
         #options={"temperature": 0.5} 
         options={"temperature": 0.1, "max_tokens": 10000, "top_p": 0.95, "frequency_penalty": 0.5, "presence_penalty": 0.5} 
@@ -113,8 +113,8 @@ def main(ruta_csv: str, modo_procesamiento: str = "resumen"):
 
 
 
-main("./dataIn/becas_structurado_3.csv", modo_procesamiento="ultimo") 
-main("./dataIn/becas_structurado_3.csv", modo_procesamiento="resumen") 
+main("./SummaryGeneration/dataIn/becas_structurado_3.csv", modo_procesamiento="ultimo") 
+main("./SummaryGeneration/dataIn/becas_structurado_3.csv", modo_procesamiento="resumen") 
 
 
 '''
